@@ -12,9 +12,11 @@
 // console.log("Hallo");
 // console.log(firstName);
 
-let firstName; // Deklaration der Variable
-firstName = "Simon"; // Wertzuweisung 
-console.log(firstName); // Konsolenausgabe
+// let firstName; // Deklaration der Variable
+// firstName = "Simon"; // Wertzuweisung 
+// console.log(firstName); // Konsolenausgabe
 
-let lastName = "Pohl";
-console.log(firstName + " " + lastName);
+// let lastName = "Pohl";
+// console.log(firstName + " " + lastName);
+
+
