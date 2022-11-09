@@ -20,4 +20,11 @@
 // console.log(firstName + " " + lastName);
 
 
+// 03 Deklaration + Wertzuweisung II 
+
+let firstName, lastName;
+firstName = prompt("Bitte Vornamen eingeben: ");
+lastName = prompt("Bitte Namen eingeben: ");
+console.log(firstName + " " + lastName);
+
 
